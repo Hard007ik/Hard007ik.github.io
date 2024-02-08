@@ -40,3 +40,6 @@ h2{
 .navbar-brand{
 font-size: 30px;	
 }
+#main{
+	margin:0px 15px 0px 15px;
+}
